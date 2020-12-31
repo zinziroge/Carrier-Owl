@@ -3,6 +3,11 @@ subject: 'cs'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+    sound: 1
+    audio: 1
+    sound feature: 3
+    audio feature: 3
+    noise removal: 2
+    spectrogram: 3
+    esc: 3
+    eyetracking: 3
